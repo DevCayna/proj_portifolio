@@ -15,6 +15,7 @@ Css |
 
 
 <p>O resultado ficou assim:</p>
-![Captura de Tela 2024-08-07 às 10 15 04](https://github.com/user-attachments/assets/ce51f4e5-a04c-413e-a5ab-579d7871d04c)
+
+![Foto site](https://github.com/user-attachments/assets/ce51f4e5-a04c-413e-a5ab-579d7871d04c)
 
 ## [Clique aqui visualizar a página😃](https://devcayna.github.io/proj_portifolio/)
